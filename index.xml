@@ -28,7 +28,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Indice de Contenido[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR red][B] Tesla:[/B][/COLOR][B] Prueba[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/decosub/Mundo-Oscuro/master/prueba</externallink>
  <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
