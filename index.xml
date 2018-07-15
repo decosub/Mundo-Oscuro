@@ -20,8 +20,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/ff9fTCy.jpg</thumbnail>
- <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
 
 <info>[COLOR blue[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
@@ -30,73 +30,63 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Indice de Contenido[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2Kc6GLj</externallink>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://bit.ly/2Myqq8X</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2IfexCc</externallink>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ciencia[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2lrHUIk</externallink>
- <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/BTXNERT.jpg</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]En esta seccion de fisica Encontraras: Ciencias Naturales, Ciencias Biosociales y Ciencias Sociales...[/B][/COLOR]</title></info>
-</item>
-
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Documentales y Conferencias (Contenido General) [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2lBdymG</externallink>
-    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
- <info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Canales YouTuber [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2N2ZHlP</externallink>
- <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart>  
  <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Biografias [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2tylOZ1</externallink>
- <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Teorias [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2yTHnIW</externallink>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Las Semillas de la Ciencia [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2ySm62j</externallink>
-    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
@@ -104,19 +94,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticias Cientificas... [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas%20noticias%20cientificas&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/nV9drDW.jpg</thumbnail>
-   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
   <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Instalar Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
-<link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
-<jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
-<thumbnail>https://i.imgur.com/QIjjn1R.jpg</thumbnail>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <info>[COLOR white][B]Complemento necesario para poder abrir ventanas emergentes con los dialogos y leer las direfentes secciones...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -139,8 +120,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/huJYTnD.jpg</thumbnail>
- <fanart>https://i.imgur.com/huJYTnD.jpg</fanart> 
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
 
 <info>[COLOR blue[B]Sin vosotros no hubiera sido posible...[/B][/COLOR]</info>
 </item>
@@ -167,8 +149,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/ff9fTCy.jpg</thumbnail>
- <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
 
 <info>[COLOR blue[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
