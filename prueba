@@ -32,8 +32,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 file = 'https://archive.org/download/DisfrutaMientrasEsperas/Disfruta mientras esperas.mp3'
 xbmc.Player().play(file)
+
+
 <item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Indice de Contenido[/B][/COLOR]</title>
+<title>[COLOR blue]primeras pruebas[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
@@ -41,69 +43,6 @@ xbmc.Player().play(file)
  <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ciencia[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]En esta seccion de fisica Encontraras: Ciencias Naturales, Ciencias Biosociales y Ciencias Sociales...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Canales YouTuber [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart>  
- <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Biografias [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Teorias [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Las Semillas de la Ciencia [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-<item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticias Cientificas... [/B][/COLOR]</title>
-<link>ignore</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
-  <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR blue][B] Agradecimientos... [/B][/COLOR]</title>
