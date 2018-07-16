@@ -9,17 +9,9 @@
  <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR red][B] Los creadores no se hacen rersponsables de los posibles traumas que este addon pudiera ocasionar[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
-</item>
 
 <item>
-<title>[COLOR red][B] ...Quiero Adentrarme en el mundo de lo Paranomal...[/B][/COLOR]</title>
+<title>[COLOr white][B] Quiero Adentrarme en el mundo de lo Paranomal bajo mi resposabilidad...[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/decosub/Mundo-Oscuro/master/index2.xml</externallink>
  <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
@@ -28,7 +20,16 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Contacto... [/B][/COLOR]</title>
+<title>[COLOR red][B] IMPORTANTE:[/B][/COLOR][COLOR white][B] Los creadores no se hacen rersponsables de los posibles traumas que este addon pudiera ocasionar[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
+ <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][B] Contacto... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
