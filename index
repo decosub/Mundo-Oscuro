@@ -18,7 +18,7 @@
  <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR white][B] Contacto... [/B][/COLOR]</title>
+<title>[COLOR red][B] Contacto... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
