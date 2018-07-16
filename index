@@ -10,14 +10,7 @@
 </item>
 
 
-<item>
-<title>[COLOR white][B] Quiero Adentrarme en el mundo de lo Paranomal bajo mi resposabilidad...[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/decosub/Mundo-Oscuro/master/index2.xml</externallink>
- <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
- <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
- <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
-</item>
+
 
 <item>
 <title>[COLOR red][B] IMPORTANTE:[/B][/COLOR][COLOR white][B] El creador del Addon no se hacen rersponsables de los posibles traumas que se pudieran ocasionar[/B][/COLOR]</title>
@@ -27,7 +20,14 @@
  <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
  <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
 </item>
-
+<item>
+<title>[COLOR red][B] Quiero Adentrarme en el mundo de lo Paranomal bajo mi resposabilidad...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/decosub/Mundo-Oscuro/master/index2.xml</externallink>
+ <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
+ <info>[COLOR white][B]BIenvenido al mundo de lo Paranormal...[/B][/COLOR]</title></info>
+</item>
 <item>
 <title>[COLOR white][B] Contacto... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
