@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red][B]<u> MUNDO  OSCURO</u>[/B][/COLOR]</title>
+<title>[COLOR red][B] MUNDO  OSCURO[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/decosub/Mundo-Oscuro/master/prueba</externallink>
  <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
@@ -40,5 +40,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/ykjHu7p.jpg</thumbnail>
  <fanart>https://i.imgur.com/ykjHu7p.jpg</fanart> 
 
-<info>[COLOR red][B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
+<info>[COLOR red]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
 </item>
