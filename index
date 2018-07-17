@@ -4,8 +4,8 @@
 <title>[COLOR white][B] MUNDO  OSCURO[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/5l8twbr.gif</thumbnail>
- <fanart>https://i.imgur.com/5l8twbr.gif</fanart> 
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -13,8 +13,8 @@
 <title>[COLOR red][B] Indice de Cintenido...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2NX3IZj</externallink>
- <thumbnail>https://i.imgur.com/5l8twbr.gif</thumbnail>
- <fanart>https://i.imgur.com/5l8twbr.gif</fanart> 
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -22,8 +22,8 @@
 <title>[COLOR red][B] Quiero Adentrarme en el mundo de lo Paranomal bajo mi resposabilidad...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2NX3IZj</externallink>
- <thumbnail>https://i.imgur.com/5l8twbr.gif</thumbnail>
- <fanart>https://i.imgur.com/5l8twbr.gif</fanart> 
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -48,7 +48,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/5l8twbr.gif</thumbnail>
- <fanart>https://i.imgur.com/5l8twbr.gif</fanart> 
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
 <info>[COLOR red]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
 </item>
