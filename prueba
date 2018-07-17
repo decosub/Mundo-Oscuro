@@ -29,8 +29,14 @@
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
  <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
 </item>
-
-https://github.com/decosub/Mundo-Oscuro/blob/master/Tema%20Mundo%20Oscuro1.mp3?raw=true
+<item>
+<title> Easy Palantir </title>
+<link>ignorme</link>
+<jsonrpc>https://github.com/decosub/Mundo-Oscuro/raw/master/POLLO.pdf</jsonrpc>
+<thumbnail>http://demiart.ru/forum/uploads/post-36567-1181776330.jpg</thumbnail>
+<fanart>http://demiart.ru/forum/uploads/post-36567-1181776330.jpg</fanart>
+<info>Addon para Generar User y Contraseña Automaticamente en Palantir<info>
+</item>
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] pdf [/B][/COLOR]</title>
