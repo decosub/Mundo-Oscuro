@@ -452,58 +452,6 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR red][B] Bosque Encantado:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Cementerios:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR white][B] Lugares del mundo Encantados:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-<item>
-<title>[COLOR red][B] Casas Encantadas:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Hospitales y Geriatricos:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Pueblos abandonados:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR red][B] Bosque Encantado:[/COLOR][/B]</title>
@@ -1040,21 +988,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Buscador de Contenido General:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-
-
-
-
-
-
-<item>
 <title>[COLOR white][B] Contenido dificil de catalogar[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LtSeek</externallink>
@@ -1091,15 +1024,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Los Experimentos mas Macabros:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR red][B] Las Desapariciones mas Extrañas:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
@@ -1109,7 +1033,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Los Crimenes mass Sangrientos de la Historia:[/COLOR][/B]</title>
+<title>[COLOR red][B] Los Crimenes mas Sangrientos de la Historia:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
@@ -1118,7 +1042,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] El Triangulo de las Bermudad:[/COLOR][/B]</title>
+<title>[COLOR white][B] El Triangulo de las Bermudas:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2NsqTKf</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
