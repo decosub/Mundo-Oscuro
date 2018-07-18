@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR black][B] BIENVENIDO A[/COLOR][/B][COLOR red][B] MUNDO  OSCURO[/B][/COLOR]</title>
+<title>[COLOR black][B] MUNDO  OSCURO[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
@@ -84,4 +84,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
 <info>[COLOR white]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR yellow][B] ADVERTENCIA:[/COLOR][/B][COLOR white][B] Aquel que entre que abandone toda esperanza...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
 </item>
