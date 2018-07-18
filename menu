@@ -54,7 +54,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR red][B] Esoterismo:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2NrYHa3</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -79,7 +79,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR red][B] Casas , bosques y lugares encantados:[/COLOR][/B]</title>
+<title>[COLOR red][B] Lugares encantados:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
