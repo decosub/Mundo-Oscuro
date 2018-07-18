@@ -45,16 +45,6 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-
-<item>
-<title>[COLOR red][B] Casas Encantadas:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
 <item>
 <title>[COLOR red][B] Telekinesis:[/COLOR][/B]</title>
 <link>nolink</link>
@@ -145,7 +135,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Mundo Oscuro[/B][/COLOR] [COLOR red]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=demoniaco' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=espiritismo' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
@@ -199,7 +189,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2NsqTKf</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
