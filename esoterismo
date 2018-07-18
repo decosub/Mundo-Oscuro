@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][B] ESOTEISMO:[/B][/COLOR]</title>
+<title>[COLOR white][B] ESOTERISMO:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
@@ -65,7 +65,7 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Eso[/B][/COLOR]</title>
+<item><title>[COLOR blue][B] Buscador de Contenidos: Esoterismo[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>terismo
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
@@ -155,7 +155,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2NsqTKf</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
