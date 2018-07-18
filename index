@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][B] BIENVENIDO A[/COLOR][/B][COLOR red][B] MUNDO  OSCURO[/B][/COLOR]</title>
+<title>[COLOR black][B] BIENVENIDO A[/COLOR][/B][COLOR red][B] MUNDO  OSCURO[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] ADVERTENCIA: Aquel que entre que abandone toda esperanza...[/B][/COLOR]</title>
+<title>[COLOR yellow][B] ADVERTENCIA:[/COLOR][/B][COLOR white][B] Aquel que entre que abandone toda esperanza...[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
