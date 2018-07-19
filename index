@@ -4,8 +4,8 @@
 <title>[COLOR white][B] MENU GENERAL:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/POz6S87.jpg</thumbnail>
+ <fanart>https://i.imgur.com/POz6S87.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -29,8 +29,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/Q9mq0kz.jpg</thumbnail>
+ <fanart>https://i.imgur.com/Q9mq0kz.jpg</fanart> 
 <info>[COLOR white]Adentrate en lo desconocido y descubre la historia de la joven Vanessa atraves del contenido del Addon...[/COLOR]</info>
 </item>
 
@@ -38,16 +38,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Espiritismo:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2uM8Yqe</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
 <title>[COLOR red][B] Ocultismo:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LsY0wE</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -55,8 +55,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Esoterismo:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2NrYHa3</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
+ <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -64,8 +64,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Demoniaco:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2Loio25</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/YtOCBkO.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -73,8 +73,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Mitos y Leyendas:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2Nqt7cN</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/0hqp0d5.jpg</thumbnail>
+ <fanart>https://i.imgur.com/0hqp0d5.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -82,8 +82,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Lugares encantados:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zZq4Xx</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/Ypg6D1H.jpg</thumbnail>
+ <fanart>https://i.imgur.com/Ypg6D1H.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -91,8 +91,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Profecias:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2Jy3d4P</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
+ <fanart>https://i.imgur.com/LmgGqqg.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -100,8 +100,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Sectas:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LmQHdh</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/kpjU4jW.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -109,8 +109,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Documentacion:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2mmMjwG</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/XCdoPrp.jpg</thumbnail>
+ <fanart>https://i.imgur.com/XCdoPrp.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -118,7 +118,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Contenido dificil de catalogar[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LtSeek</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/gLBCk4P.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -127,8 +127,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Canales Especializados de Youtube[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2uKQTsh</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/fFfILzd.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item
 
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Ultimas Noticias de Ciencias Ocultas[/COLOR][/B]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+del+mundo+paranormal&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/kGVKUbz.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kGVKUbz.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
