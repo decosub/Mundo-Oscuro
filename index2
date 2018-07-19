@@ -13,8 +13,8 @@
 <title>[COLOR red][B] Indice de Contenido...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2Lt0Hys</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/WhJQzn2.gif</thumbnail>
+ <fanart>https://i.imgur.com/WhJQzn2.gif</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -22,8 +22,8 @@
 <title>[COLOR red][B] ENTRAR: en el mundo de lo Paranomal ...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/WhJQzn2.gif</thumbnail>
+ <fanart>https://i.imgur.com/WhJQzn2.gif</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -47,8 +47,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/WhJQzn2.gif</thumbnail>
+ <fanart>https://i.imgur.com/WhJQzn2.gif</fanart> 
 <info>[COLOR white]Adentrate en lo desconocido y descubre la historia de la joven Vanessa atraves del contenido del Addon...[/COLOR]</info>
 </item>
 
@@ -72,8 +72,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/WhJQzn2.gif</thumbnail>
+ <fanart>https://i.imgur.com/WhJQzn2.gif</fanart> 
 <info>[COLOR white]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
 </item>
 
@@ -81,7 +81,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR yellow][B] ADVERTENCIA:[/COLOR][/B][COLOR white][B] Aquel que entre que abandone toda esperanza...[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/WhJQzn2.gif</thumbnail>
+ <fanart>https://i.imgur.com/WhJQzn2.gif</fanart> 
  <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
 </item>
