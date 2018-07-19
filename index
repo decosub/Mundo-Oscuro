@@ -5,7 +5,7 @@
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/POz6S87.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -30,7 +30,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/Q9mq0kz.jpg</thumbnail>
- <fanart> <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> </fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -39,7 +39,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2uM8Yqe</externallink>
  <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -48,7 +48,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2LsY0wE</externallink>
  <thumbnail>https://i.imgur.com/omwIUKQ.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2NrYHa3</externallink>
  <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
-  <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+  <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -68,7 +68,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2Loio25</externallink>
  <thumbnail>https://i.imgur.com/YtOCBkO.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -78,7 +78,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2Nqt7cN</externallink>
  <thumbnail>https://i.imgur.com/0hqp0d5.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -88,7 +88,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2zZq4Xx</externallink>
  <thumbnail>https://i.imgur.com/Ypg6D1H.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -98,7 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2Jy3d4P</externallink>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -107,7 +107,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2LmQHdh</externallink>
  <thumbnail>https://i.imgur.com/kpjU4jW.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -116,8 +116,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Documentacion:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2mmMjwG</externallink>
- <thumbnail>https://i.imgur.com/XCdoPrp.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/ZFZeewo.jpg</thumbnail>
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -127,7 +127,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <externallink>https://bit.ly/2LtSeek</externallink>
  <thumbnail>https://i.imgur.com/gLBCk4P.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -136,8 +136,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Canales Especializados de Youtube[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2uKQTsh</externallink>
- <thumbnail>https://i.imgur.com/fFfILzd.jpg</thumbnail>
- <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/MkiIEf1.jpg</thumbnail>
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -147,7 +147,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+del+mundo+paranormal&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/kGVKUbz.jpg</thumbnail>
-  <fanart>https://i.imgur.com/YNHkzzC.jpg</fanart> 
+  <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
