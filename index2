@@ -13,7 +13,7 @@
 <title>[COLOR red][B] ENTRAR: en el mundo de lo Paranomal ...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
- <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/Tm9GnY3.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
  <info>[COLOR white]Cruza el Umbral a otros mundos desconocidos y paranormales.[/COLOR]</title></info>
 </item>
@@ -38,7 +38,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/NLK4RCS.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
 <info>[COLOR white]Adentrate en lo desconocido y descubre la historia de la joven Vanessa atraves del contenido del Addon...[/COLOR]</info>
 </item>
@@ -114,7 +114,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/dYuHood.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
 
 <info>[COLOR white[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
