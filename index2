@@ -62,7 +62,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/cU6LE7S.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
 <info>[COLOR white]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
 </item>
@@ -82,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "Gracias a @Tecobt, @catoalkodi, @SiempreFuerte78 y al Grupo Catana ( @Catana )."
     line3 = "Gracias a ti por instalar el addon, entre todos hacemos grande Kodi..." 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2lqcXV2"
+    return "https://bit.ly/2uS5JNV"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
@@ -109,7 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "2º En ajustes de Youtube, la pestaña MPEG-DASH Activar Usar mpeg-dash y habilitar Proxy MPEG-DASH"
     line3 = "3º Importante: Reset del Addon (pulsacion larga/ajustes/ajustes por defecto/ok)" 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2lqcXV2"
+    return "https://bit.ly/2uS5JNV"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
