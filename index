@@ -10,6 +10,15 @@
 </item>
 
 <item>
+<title>[COLOR red][B] Indice de Contenido...[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2Lt0Hys</externallink>
+ <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
+ <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
+ <info>[COLOR white] Todo el Contenido del Addon perfectamente ordenado..[/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR red][B] La Primera noche [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
