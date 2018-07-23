@@ -12,7 +12,7 @@
 <item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2mtpKGG</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=escritura+automatica&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+escritura+automatica&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,13 +30,13 @@
 <item>
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+escritura+automatica&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Escritura Automatica[/B][/COLOR]</title>
+<item><title>[COLOR white][B] Buscador de Contenidos: Escritura Automatica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
@@ -89,7 +89,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  return list1
  
 def takeInputFortext(txt):
- addon = xbmcaddon.Addon('plugin.video.Tesla')
+ addon = xbmcaddon.Addon('plugin.video.MundoOscuro')
  addon_version = addon.getAddonInfo('version')
  profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
  
@@ -126,7 +126,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
