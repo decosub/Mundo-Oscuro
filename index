@@ -160,10 +160,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR white][B] Pruebas:[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://github.com/decosub/Mundo-Oscuro/blob/master/Mundo%20Oscuro.mp4?raw=true</externallink>
- <thumbnail>https://i.imgur.com/POz6S87.jpg</thumbnail>
- <fanart>https://i.imgur.com/83vd34h.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
+
