@@ -1,153 +1,219 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR white][B] MENU GENERAL:[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] La Primera noche[/B][/COLOR]</title>
-<link>$doregex[openDialog]</link>
 <regex>
-<name>openDialog</name>
+
+<name>search</name>
+
 <expres><![CDATA[#$pyFunction
+import xbmc
 import xbmcaddon
 import xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "La primera noche que Vanessa paso sola en su nueva casa"
-    line2 = "no podia presagiar lo que iba a suceder en los proximos meses"
-    line3 = "nada le hacia pensar que seria el princio del fin..." 
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2zP0y7g"
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('contraseña privada: pedir a jose', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+
+<page></page>
+
+<cookieJar></cookieJar>
+
+</regex>
+
+ </item>
+
+<item>
+<title>[B][COLOR white][ + ] [/COLOR][COLOR yellow] Busca tu serie o peli [/COLOR][COLOR orange] Dk [/COLOR][/B] </title>
+<link>$doregex[lista]</link>
+ 
+<regex>
+<name>lista</name>
+  <listrepeat><![CDATA[
+         <SetViewMode>55</SetViewMode>
+        <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR red][COLOR white]Mundo Oscuro[/COLOR]").replace(".avi", "  [COLOR red]Mundo Oscuro[/COLOR]").replace(".mkv", "[COLOR red]Mundo Oscuro[/COLOR]")</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+        ]]></listrepeat>
+<expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
+<page>http://diskokosmiko.mx/action/SearchFiles?Phrase=Mundo OscuroPi&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
+<rawpost>Phrase=$doregex[search]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/action/SearchFiles</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Busca tu pelicula o serie favorita:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/k2f4bHa.jpg</fanart> 
-<info>[COLOR white]Adentrate en lo desconocido y descubre la historia de la joven Vanessa atraves del contenido del Addon...[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR red][B] Espiritismo:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2uM8Yqe</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-<item>
-<title>[COLOR red][B] Demomiaco:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2Loio25</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
 
-<item>
-<title>[COLOR red][B] Experiencias cercana a la Muerte:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Sectas:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Magia Brujeria y Chamanismo:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2NZvXGY</externallink>
-  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart>  
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Viajes Astrales, experiencias extracorporeas:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Mitos y Leyendas:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Casas , bosques y lugares encantados:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Profecias:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[lista.param1]</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[lista.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok2</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx[lista.param1]</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
 </item>
 
 
+
+ 
+ 
 <item>
-<title>[COLOR red][B] Documentacion:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2mmMjwG</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+<title>[B][COLOR white] Busca tu serie o peli Kbagi[/COLOR][/B] </title>
+<link>$doregex[lista]</link>
+<regex>
+<name>lista</name>
+  <listrepeat><![CDATA[
+         <SetViewMode>55</SetViewMode>
+         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR red][COLOR white]Mundo Oscuro[/COLOR]").replace(".avi", "  [COLOR red]Mundo Oscuro[/COLOR]").replace(".mkv", "[COLOR red]Mundo Oscuro[/COLOR]")</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+        ]]></listrepeat>
+<expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
+<page>http://k-bagi.com/action/SearchFiles?Phrase=MundoOscuro&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
+<rawpost>Phrase=$doregex[search]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://k-bagi.com/action/SearchFiles</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Busca tu pelicula o serie favorita:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://k-bagi.com/[lista.param1]</page>
+<referer>http://k-bagi.com/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://k-bagi.com/'
+ url='http://k-bagi.com[lista.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'almera89'}
+ nr1 = requests.post('http://k-bagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://k-bagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok2</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://k-bagi.com[lista.param1]</page>
+<referer>http://k-bagi.com/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR red][B] Contenido dificil de catalogar[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Canales Especializados de Youtube[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item
-
-<item>
-<title>[COLOR red][B] Ultimas Noticias del Mundo Paranormal[/COLOR][/B]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+del+mundo+paranormal&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
