@@ -39,7 +39,7 @@
 <item>
 <title>[COLOR red][B] Niños Diabolicos:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=niños+demoniacos&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ninos+demoniacos&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -62,7 +62,14 @@
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
-
+<item>
+<title>[COLOR red][B] Niños Demoniacos:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ninos+demoniacos&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR red][B] Musica con mensajes Satanicos:[/COLOR][/B]</title>
