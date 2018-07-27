@@ -57,16 +57,16 @@
 <item>
 <title>[COLOR red][B] Los Crimenes mas Sangrientos de la Historia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2Aq6kwr</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Asesions en Serie:[/COLOR][/B]</title>
+<title>[COLOR red][B] Asesinos en Serie:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2LWszvc</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -74,7 +74,7 @@
 <item>
 <title>[COLOR red][B] El Triangulo de las Bermudas:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<externallink>https://bit.ly/2NRbbrZ</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -84,7 +84,7 @@
 <item>
 <title>[COLOR red][B] El Valle de la Muerte:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<externallink>https://bit.ly/2mMIocD</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -93,7 +93,7 @@
 <item>
 <title>[COLOR red][B] Stonehenge:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<externallink>https://bit.ly/2vbvkBA</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -102,7 +102,7 @@
 <item>
 <title>[COLOR red][B] La Isla de Pascua:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<externallink>https://bit.ly/2LTsKqO</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -112,7 +112,7 @@
 <item>
 <title>[COLOR red][B] Machu Pichu:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<externallink>https://bit.ly/2LTW0Og</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -121,7 +121,7 @@
 <item>
 <title>[COLOR red][B] Lineas de Nazca:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<externallink>https://bit.ly/2v0z8Xd</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -130,16 +130,25 @@
 <item>
 <title>[COLOR red][B] MOMO:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=terror+momo&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/zbMavgf.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Dridas:[/COLOR][/B]</title>
+<title>[COLOR red][B] VIDEOS CORTOS DE TERROR:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
+<jsonrpc>plugin://plugin.video.youtube/channel/gqy14lYRjug/playlist/PLTdjNQSjc459mPxSeFc6roj4p3-NlmZHb/</jsonrpc>
+ <thumbnail>https://i.imgur.com/zbMavgf.jpg</thumbnail>
+ <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Druidas:[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2Ohv2St</externallink>
  <thumbnail>https://i.imgur.com/zbMavgf.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
