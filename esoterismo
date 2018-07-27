@@ -62,7 +62,14 @@
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
-
+<item>
+<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=esoterismo&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
