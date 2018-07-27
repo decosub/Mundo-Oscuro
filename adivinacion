@@ -40,7 +40,7 @@
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de los Runas ..[/COLOR]</title></info>
+ <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de la Adivinacion ..[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -72,7 +72,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Mundo Oscuro[/B][/COLOR] [COLOR red]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=Runas' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=adivinacion' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
