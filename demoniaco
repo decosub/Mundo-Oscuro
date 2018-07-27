@@ -37,9 +37,9 @@
 </item>
 
 <item>
-<title>[COLOR red][B] NIños Diabolicos:[/COLOR][/B]</title>
+<title>[COLOR red][B] Niños Diabolicos:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=niños+diabolicosl&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=niños+diabolicos&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -48,7 +48,7 @@
 <item>
 <title>[COLOR red][B] Animales Diabolicos:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=animales+diabolicosl&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=animales+diabolicos&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
