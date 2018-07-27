@@ -12,7 +12,7 @@
 <item>
 <title>[COLOR red][B] Geomancia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2mOMvoS</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Cartomancia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2vcQY8j</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,16 +30,16 @@
 <item>
 <title>[COLOR red][B] Numerologia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2LJ6zXu</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Cabala:[/COLOR][/B]</title>
+<title>[COLOR red][B] Kabala:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2mMkSwz</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -48,7 +48,7 @@
 <item>
 <title>[COLOR red][B] Tarot:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2v6HHi4</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR red][B] Runas:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2LJ7GGE</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -67,7 +67,7 @@
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+esoterismo&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -76,13 +76,13 @@
 <item>
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+esoterismo&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Esoterismo[/B][/COLOR]</title>
+<item><title>[COLOR white][B] Buscador de Contenidos: Esoterismo[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>terismo
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
