@@ -155,6 +155,15 @@
 </item>
 
 <item>
+<title>[COLOR red][B] Orbs (Bolas de Luz):[/COLOR][/B]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=orbs+documentales&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/YawrAqf.png</thumbnail>
+<fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<info>[COLOR white][B]El MIsterio de las Bolas de Luz...[/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
