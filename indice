@@ -750,25 +750,6 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR red][B] Sibila ( Herófila ):[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
- <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Agripa ( El Nigromante ):[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
- <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-
-
 
 
 
@@ -1125,7 +1106,14 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-
+<item>
+<title>[COLOR red][B] Orbs (Bolas de Luz):[/COLOR][/B]</title>
+<link>ignore</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/YawrAqf.png</thumbnail>
+<fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<info>[COLOR white][B]El MIsterio de las Bolas de Luz...[/B][/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR white][B] Canales Especializados de Youtube[/COLOR][/B]</title>
