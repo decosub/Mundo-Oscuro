@@ -10,18 +10,18 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Dracula:[/COLOR][/B]</title>
+<title>[COLOR red][B] Vampiros:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2NWoVC2</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] El hombre del Saco:[/COLOR][/B]</title>
+<title>[COLOR red][B] Slenderman:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2KfM7sG</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,25 +30,25 @@
 <item>
 <title>[COLOR red][B] El caballero de la Cabeza Cortada:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2mZzTeF</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] La nilña de la curva:[/COLOR][/B]</title>
+<title>[COLOR red][B] La niña de la curva:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2LG1cJI</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] El Hombre Lobo:[/COLOR][/B]</title>
+<title>[COLOR red][B] Licantropos:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2NWhXNu</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -57,15 +57,25 @@
 <item>
 <title>[COLOR red][B] El Chupacabras:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2vo7v9M</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
+<item>
+<title>[COLOR red][B] Contenido Genral:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mitos+y+leyendas&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+mitos+y+leyendas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -74,13 +84,13 @@
 <item>
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+mitos+y+leyendas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Mitos y Leyendas[/B][/COLOR]</title>
+<item><title>[COLOR white][B] Buscador de Contenidos: Mitos y Leyendas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
