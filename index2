@@ -123,8 +123,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white][B] ADVERTENCIA:[/COLOR][/B][COLOR white] Aquel que entre que abandone toda esperanza...[/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/bxQecNI.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ObNte1aS1g4</jsonrpc>
+ <thumbnail>https://i.imgur.com/UTpooWN.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
  <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
 </item>
+ObNte1aS1g4
