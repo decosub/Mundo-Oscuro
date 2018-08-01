@@ -4,17 +4,25 @@
 <title>[COLOR white][B] SESIONES DE ESPIRITISMO:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
-
 <item>
 <title>[COLOR red][B] Organizacion de una sesion de Espiritismo:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2mtpKGG</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sesiones+espiritismo&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -22,8 +30,8 @@
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+sesiones+espiritismo&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -31,23 +39,23 @@
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+sesiones+espiritismo&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Sesiones de Espiritismo[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart>
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de las Sesiones de Espiritismo...[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart>
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -123,11 +131,12 @@ class InputWindow(xbmcgui.WindowDialog):
 </regex>
 </item>
 
+
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
