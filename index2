@@ -122,8 +122,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR white][B] ADVERTENCIA:[/COLOR][/B][COLOR white] Aquel que entre que abandone toda esperanza...[/COLOR]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ObNte1aS1g4</jsonrpc>
+<link>https://github.com/decosub/Mundo-Oscuro/blob/master/Mundo%20Oscuro.mp4?raw=true</link>
+<externallink>https://github.com/decosub/Mundo-Oscuro/blob/master/Mundo%20Oscuro.mp4?raw=true</externallink>>
  <thumbnail>https://i.imgur.com/UTpooWN.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
  <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
