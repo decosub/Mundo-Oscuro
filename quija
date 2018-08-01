@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ouija+español&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ouija+espanol&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/tY5OnSv.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart>  
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,7 +30,7 @@
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ouija+español&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ouija+espanol&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/tY5OnSv.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart>  
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -39,7 +39,7 @@
 <item>
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+ouija+español&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+ouija+espanol&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/tY5OnSv.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
