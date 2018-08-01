@@ -90,6 +90,15 @@
 </item>
 
 <item>
+<title>[COLOR red][B] Medium:[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2JQ49Sb</externallink>
+ <thumbnail> <thumbnail>https://i.imgur.com/felAcpA.jpg</thumbnail></thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=espiritismo&search_type=playlist</jsonrpc>
@@ -213,4 +222,3 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-e
