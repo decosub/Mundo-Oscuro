@@ -146,7 +146,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Ultimas Noticias de Ciencias Ocultas[/COLOR][/B]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+del+mundo+paranormal&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/kGVKUbz.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
   <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
