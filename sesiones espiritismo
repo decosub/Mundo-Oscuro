@@ -46,16 +46,16 @@
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Sesiones de Espiritismo[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
- <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart>
+ <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de las Sesiones de Espiritismo...[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
- <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart>
+ <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
