@@ -2,7 +2,7 @@
 <title>[COLOR white][B] Mediums[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/felAcpA.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/X5XP4vP.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -11,7 +11,7 @@
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Mediums&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/felAcpA.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/X5XP4vP.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -20,7 +20,7 @@
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+Mediums&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/felAcpA.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/X5XP4vP.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -29,7 +29,7 @@
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+Mediums&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/felAcpA.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/X5XP4vP.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
