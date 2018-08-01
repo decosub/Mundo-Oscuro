@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR red][B] ADVERTENCIA:[/COLOR][/B][COLOR white] Aquel que entre que abandone toda esperanza...[/COLOR]</title>
+<title>[COLOR lime][B] ADVERTENCIA:[/COLOR][/B][COLOR white] Aquel que entre que abandone toda esperanza...[/COLOR]</title>
 <link>nolink</link>
 <urlsolve>https://www.youtube.com/watch?v=ObNte1aS1g4</urlsolve>
  <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
