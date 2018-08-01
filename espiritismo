@@ -102,7 +102,7 @@
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+espiritismo&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l4dYt7m.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -111,7 +111,7 @@
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+espiritismo&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/VPZrXqb.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/1h5VI7W.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
