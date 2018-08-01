@@ -38,7 +38,7 @@
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Escritura Automatica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/B81dreM.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de la Escritura Automatica...[/COLOR]</title></info>
 <regex>
@@ -46,7 +46,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/B81dreM.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
