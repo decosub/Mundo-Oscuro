@@ -142,7 +142,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR red][B] Adivina Que pelicula es: [/B][/COLOR]</title>
+<title>[COLOR red][B] Frases Celebres del Cine de Terror: [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -161,7 +161,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<utube>oU7W_7CZdYY</utube>
  <thumbnail>https://i.imgur.com/Q9mq0kz.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
