@@ -123,7 +123,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red][B] Contenido dificil de catalogar[/COLOR][/B]</title>
+<title>[COLOR red][B] Contenido dificil de catalogar:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LtSeek</externallink>
  <thumbnail>https://i.imgur.com/gLBCk4P.jpg</thumbnail>
@@ -133,7 +133,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red][B] Canales Especializados de Youtube[/COLOR][/B]</title>
+<title>[COLOR red][B] Canales Especializados de Youtube:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2uKQTsh</externallink>
  <thumbnail>https://i.imgur.com/MkiIEf1.jpg</thumbnail>
@@ -167,7 +167,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR red][B] Ultimas Noticias de Ciencias Ocultas[/COLOR][/B]</title>
+<title>[COLOR red][B] Ultimas Noticias de Ciencias Ocultas...[/COLOR][/B]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+del+mundo+paranormal&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
