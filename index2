@@ -9,14 +9,7 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR white][B] ENTRAR:[/COLOR][/B][COLOR red][B] en el mundo de lo Paranomal ...[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2zP0y7g</externallink>
- <thumbnail>https://i.imgur.com/Tm9GnY3.jpg</thumbnail>
- <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
- <info>[COLOR white]Cruza el Umbral a otros mundos desconocidos y paranormales.[/COLOR]</title></info>
-</item>
+
 
 <item>
 <title>[COLOR red][B] El Principio del fin... [/B][/COLOR]</title>
@@ -65,6 +58,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <thumbnail>https://i.imgur.com/cU6LE7S.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
 <info>[COLOR white]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR white][B] ENTRAR:[/COLOR][/B][COLOR red][B] en el mundo de lo Paranomal ...[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2zP0y7g</externallink>
+ <thumbnail>https://i.imgur.com/Tm9GnY3.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]Cruza el Umbral a otros mundos desconocidos y paranormales.[/COLOR]</title></info>
 </item>
 
 <item>
