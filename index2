@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] ENTRAR: en el mundo de lo Paranomal ...[/COLOR][/B]</title>
+<title>[COLOR white][B] ENTRAR:[/COLOR][/B][COLOR red][B] en el mundo de lo Paranomal ...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/Tm9GnY3.jpg</thumbnail>
@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR white][B] ADVERTENCIA:[/COLOR][/B][COLOR red] Aquel que entre que abandone toda esperanza...[/COLOR]</title>
+<title>[COLOR white][B] ADVERTENCIA:[/COLOR][/B][COLOR red][B] Aquel que entre que abandone toda esperanza...[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
