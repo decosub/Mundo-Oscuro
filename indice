@@ -943,15 +943,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Las Frases mas Celebres del Cine de Terror:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
- <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR red][B] Creepypasta:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
@@ -1212,6 +1203,14 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR white][B] Frases Celebres del Cine de Terror: [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
+ <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR white][B] Ultimas Noticias de Ciencias Ocultas[/COLOR][/B]</title>
