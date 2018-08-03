@@ -97,7 +97,7 @@
 <title>[COLOR white][B] CANALES OCULTIMOS:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/omwIUKQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -105,23 +105,25 @@
 <title>[COLOR red][B] Ocultismo & Misticismo[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/CzEL8nhrqS0/playlist/UUvMVZBMgrO7ss25hM8pGpfg/</jsonrpc>
- https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+<thumbnail> https://i.imgur.com/omwIUKQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
 <item>
 <title>[COLOR red][B] Ecos del Abismo[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/ZZyocV0QGJ0/playlist/UU85VQJBwAb6zAEvLXZxT2WA/</jsonrpc>
- https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+<thumbnail> https://i.imgur.com/omwIUKQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
 <item>
 <title>[COLOR red][B] Angeles y Demonios[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/EuWdOuyyxqk/playlist/PLf1tIZdDFN-2pGA3BsOP8tys16rpGUJgd/</jsonrpc>
- https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/omwIUKQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -130,7 +132,7 @@
 <title>[COLOR red][B] Ocultismo Nazi[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/VkGR1R_0iJM/playlist/PL3735EA46D3DC0EC7/</jsonrpc>
- https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+<thumbnail> https://i.imgur.com/omwIUKQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
