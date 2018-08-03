@@ -50,19 +50,6 @@
 </item>
 
 
-<item>
-<title>[COLOR red][B] Prueba[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=esoterismo&sp=EgIQAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
- <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-
-
-
-
 
 
 
@@ -153,7 +140,7 @@
 
 
 <item>
-<title>[COLOR red][B] CANALES CON CONTENIDO GENERAL:[/COLOR][/B]</title>
+<title>[COLOR white][B] CANALES CON CONTENIDO GENERAL:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
