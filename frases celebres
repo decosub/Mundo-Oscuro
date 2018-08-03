@@ -22,9 +22,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "5,6 toma el crucifijo. 7,8 mantente despierto"
     line3 = "9,10 nunca más dormirás....Hagas lo que hagas, no te quedes dormido" 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return ""
+    return "https://bit.ly/2AJGsvg"
 ]]></expres>
-<page></page>
+<page>https://bit.ly/2AJGsvg</page>
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
@@ -47,9 +47,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "Georgie. Y cuando estés aquí abajo conmigo"
     line3 = "tu tambien flotaras...." 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return ""
+    return "https://bit.ly/2AJGsvg"
 ]]></expres>
-<page></page>
+<page>https://bit.ly/2AJGsvg</page>
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
@@ -88,5 +88,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://bit.ly/2AJGsvg</externallink>
  <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2zP0y7g</externallink>
+ <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
