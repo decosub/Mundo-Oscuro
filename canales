@@ -4,54 +4,205 @@
 <title>[COLOR white][B] CANALES YOUTUBER:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/fFfILzd.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR white][B] CANALES ESOTERICOS:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Esoterismo Ayuda Espiritual[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/7aw_TTCA7UM/playlist/TLGGq8zWhTwh-e0wMzA4MjAxOA1/</jsonrpc>
+ <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Amatista Esoterismo[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/1oESbdRx5CQ/playlist/UUziSTVhXVeQTenzGfhUp6zw/</jsonrpc>
+ <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Avalon Esoterismo[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/icwMD8cdDJ/playlist/UUtzAICeOBETO4mzdaRUjkSQ/</jsonrpc>
+ <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Prueba[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=esoterismo&sp=EgIQAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B] CANALES ESPIRITISMO :[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Soy Espirita[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/kAfMIz9kewE/playlist/UUB-np3P73y93xGjDc7AqVpA/</jsonrpc>
+ <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Federación Espírita Española[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/wkGbg64vJXo/playlist/UU05mEeY_JQDmWkD7a_cPuLw/</jsonrpc>
+ <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart>  
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Mindalia (Esperitismo)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/r4ZhogDnktM/playlist/PLmRfYsslShmIi6Cu1HtT9nAaIiWfTerpT/</jsonrpc>
+ <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B] CANALES OCULTIMOS:[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink></externallink>
+ https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Ocultismo & Misticismo[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/CzEL8nhrqS0/playlist/UUvMVZBMgrO7ss25hM8pGpfg/</jsonrpc>
+ https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Ecos del Abismo[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/ZZyocV0QGJ0/playlist/UU85VQJBwAb6zAEvLXZxT2WA/</jsonrpc>
+ https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Angeles y Demonios[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/EuWdOuyyxqk/playlist/PLf1tIZdDFN-2pGA3BsOP8tys16rpGUJgd/</jsonrpc>
+ https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] CANALES ESOTERICOS:[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<title>[COLOR red][B] Ocultismo Nazi[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/VkGR1R_0iJM/playlist/PL3735EA46D3DC0EC7/</jsonrpc>
+ https://i.imgur.com/omwIUKQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR red][B] CANALES ESPIRITISMO :[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
 
-<item>
-<title>[COLOR red][B] CANALES OCULTIMOS:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
+
+
 
 <item>
 <title>[COLOR red][B] CANALES CON CONTENIDO GENERAL:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR red][B] Divulgadores del Misterio[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/Oo411xeZfg8/playlist/UUOMld3LgRLHg0IAACn3CYoQ/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Mindalia (Parapcologia)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/319NHREaYtA/playlist/PLmRfYsslShmJJXtRTLJHQ20qNNxHwKN_S/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Grupo HEPTA[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Grupo+Hepta&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Creepypasta[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/WO-TC-OYdy8/playlist/UUQars06-UejxcJhcGzjzc0w/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<externallink>https://bit.ly/2zP0y7g</externallink>
+ <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
+ <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
