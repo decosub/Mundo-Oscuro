@@ -36,7 +36,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[COLOR white]Adentrate en lo desconocido y descubre la historia de la joven Vanessa atraves del contenido del Addon...[/COLOR]</info>
 </item>
 
-<item><title>[COLOR white][B] Tu Horoscopo Diario...[/B][/COLOR]</title>
+<item><title>[COLOR red][B] Tu Horoscopo Diario...[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/00xHZDr.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import urlresolver
 def GetLSProData(page_data,Cookie_Jar,m):
- url = 'https://www.youtube.com/watch?v=[makelist.param1]&sp=CAJCBAgBEgA%253D'
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
  streamLink = urlresolver.resolve(url)
  return streamLink
 ]]></expres>
@@ -72,7 +72,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Mundo Oscuro[/B][/COLOR] [COLOR red] ...[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=horoscopo+para+el+dia+de+hoy' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=horoscopo' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
