@@ -1050,7 +1050,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Asesions en Serie:[/COLOR][/B]</title>
+<title>[COLOR red][B] Asesinos en Serie:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
@@ -1152,6 +1152,15 @@
 
 <item>
 <title>[COLOR red][B] Estigmas:[/COLOR][/B]</title>
+<link>ignore</link>
+<externallink><externallink>
+ <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
+ <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Muertes Grabadas:[/COLOR][/B]</title>
 <link>ignore</link>
 <externallink><externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
