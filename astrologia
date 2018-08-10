@@ -128,6 +128,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
-  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart>  
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
