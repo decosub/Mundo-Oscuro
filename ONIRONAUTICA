@@ -5,7 +5,7 @@
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -14,7 +14,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Onironautica&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -23,7 +23,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+Onironautica&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -32,22 +32,22 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+Onironautica&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Onironautica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de la Onironautica.[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -128,6 +128,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
