@@ -76,7 +76,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
  <thumbnail>https://i.imgur.com/Dbiz2UX.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
-<info>[COLOR white[B]Sin vosotros no hubiera sido posible...[/B][/COLOR]</info>
+<info>[COLOR white][B]Sin vosotros no hubiera sido posible...[/B][/COLOR]</info>
 </item>
 
 
@@ -103,7 +103,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/dYuHood.jpg</thumbnail>
   <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
-<info>[COLOR blue[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
+<info>[COLOR white][B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
 
 <item>
