@@ -19,7 +19,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/d2poYFD.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -44,7 +44,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/fPEBHbk.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -69,7 +69,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/JuS7pUI.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -94,7 +94,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/AQXs2ce.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -119,7 +119,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/N6XigEe.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -144,7 +144,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/Fm38KQl.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -169,7 +169,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/ovgMWqi.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -194,7 +194,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/t1DTEeP.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -219,7 +219,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/R9eUusP.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -244,7 +244,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/2Jdw7jy.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -269,7 +269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/z9IeohA.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart>  
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart>  
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
@@ -294,48 +294,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
  <thumbnail>https://i.imgur.com/4lDfOjL.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
-<info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
-</item>
-
-<item>
-<title>[COLOR red][B] El Principio del fin... [/B][/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Aqui empezara la parte interactiva del addon..."
-    line2 = "Descrubre la historia de la joven Vanessa"
-    line3 = "que se oculta dentro del contenido del addon..." 
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2vCXBlr"
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
- <thumbnail>https://i.imgur.com/NLK4RCS.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 <info>[COLOR white]Que te depara el dia de hoy? preguntale a tus Astros...[/COLOR]</info>
 </item>
 
 
-<item><title>[COLOR red][B] Tu Horoscopo Diario...(el de verdad)[/B][/COLOR]</title>
+
+<item><title>[COLOR white][B] Tu Horoscopo Diario...[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/9T0E5i2.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/jHYfuVG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
  <info>[COLOR white]Descubre que te depara el dia de doy segun los Astros..[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/9T0E5i2.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/jHYfuVG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -416,6 +392,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <link>nolink</link>
 <externallink>https://bit.ly/2L5DeXN</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
- <fanart>https://i.imgur.com/9T0E5i2.jpg</fanart> 
+ <fanart>https://i.imgur.com/jHYfuVG.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
