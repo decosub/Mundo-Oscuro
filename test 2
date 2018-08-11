@@ -1,0 +1,276 @@
+<item>
+<title>[COLOR white][B] Frases celebres del Cine de Terror[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 1 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Cuando ya no haya espacio en el infierno"
+    line2 = "los muertos caminarán por la tierra"
+    line3 = "...." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 2 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Te debería haber ofrecido a Dios al nacer."
+    line2 = "Pero era débil y había recaído."
+    line3 = "El demonio ha llegado a casa...." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 3 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Has visto alguna vez algo que da tanto miedo "
+    line2 = "que se lo quieres mostrar a alguien más?"
+    line3 = "...." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 4 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "“Si quieres que la gente te escuche, ya no puedes simplemente tocarles el hombro "
+    line2 = "Tienes que golpearlos con un martillo,"
+    line3 = "así te darás cuenta que tienes su estricta atención" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 5 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Nunca abras una puerta  "
+    line2 = "que no está cerrada con llave."
+    line3 = "Nunca...." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 6 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "El dolor que tengo es constante y agudo"
+    line2 = "y no deseo un mundo mejor para nadie"
+    line3 = "De hecho, quiero que mi dolor sea infligido a otros, que nadie escape" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 7 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Un encuestador trató de analizarme una vez"
+    line2 = "Me comí su hígado con un poco de habas y un excelente vino "
+    line3 = "...." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 8 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Dije: no voy a hacerte daño"
+    line2 = "sólo voy a aplastarte los sesos"
+    line3 = "¡Aplastaré tus jodidos sesos!" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 9 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "El mal es sólo un punto de vista. "
+    line2 = "Dios mata indiscriminadamente"
+    line3 = "También deberíamos hacerlo nosotros.." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Adivina Que pelicula es:[/B][/COLOR][COLOR white][B] 10 [/B][/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Has visto lo que ha hecho"
+    line2 = "la cochina de tu hija?"
+    line3 = "...." 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2AJGsvg"
+]]></expres>
+<page>https://bit.ly/2AJGsvg</page>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Descubre si has Acertado:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2AJGsvg</externallink>
+ <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2zP0y7g</externallink>
+ <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
+ <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
