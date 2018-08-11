@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "Te recomiendo que sigas mirando peliculas"
     line3 = "de Walt Disney..." 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2vCXBlr"
+    return "https://bit.ly/2B1QjN9r"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
@@ -137,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "estas entre una bruja malvada y un Hannibal Lecter "
     line3 = "Vas por buen camino..." 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2Orh0gc"
+    return "https://bit.ly/2B1QjN9"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
@@ -161,7 +161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     line2 = "Eres mas peligroso que Henry Lee Lucas"
     line3 = "Se le atribuyen 360 asesinatos.." 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2vCXBlr"
+    return "https://bit.ly/2B1QjN9"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
@@ -182,8 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2zP0y7g</externallink>
+<utube>pubk677_0dU</utube>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
