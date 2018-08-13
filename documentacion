@@ -4,8 +4,8 @@
 <title>[COLOR white][B] DOCUMENTACION:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/ZFZeewo.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -14,25 +14,25 @@
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+cine+terror&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/86lrWLI.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+cine+de+terror&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/w3wRDcc.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -40,8 +40,8 @@
 <title>[COLOR red][B] Programas de Television:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/suyMzcF.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -52,7 +52,7 @@
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -60,8 +60,8 @@
 <title>[COLOR red][B] Audiolibro:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/67pS3no.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -69,25 +69,25 @@
 <title>[COLOR red][B] Literatura en Pdf:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/vCcHcgd.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 
 
-<item><title>[COLOR red][B] Buscador de Contenidos: Demoniacos[/B][/COLOR]</title>
+<item><title>[COLOR red][B] Buscador de Contenidos: [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo del Espiritismo...[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -112,7 +112,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Mundo Oscuro[/B][/COLOR] [COLOR red]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=demoniaco' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
@@ -167,7 +167,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
