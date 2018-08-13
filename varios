@@ -106,43 +106,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] La Isla de Pascua:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2LTsKqO</externallink>
- <thumbnail>https://i.imgur.com/K2fPkkd.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-
-<item>
-<title>[COLOR red][B] Machu Pichu:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2LTW0Og</externallink>
- <thumbnail>https://i.imgur.com/4uJhKY2.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] Lineas de Nazca:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2v0z8Xd</externallink>
- <thumbnail>https://i.imgur.com/4As7v8E.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] MOMO:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=terror+momo&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/zbMavgf.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR red][B] Videos Cortos de Terror:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/gqy14lYRjug/playlist/PLTdjNQSjc459mPxSeFc6roj4p3-NlmZHb/</jsonrpc>
@@ -174,7 +137,7 @@
 <title>[COLOR red][B] Radioestesis:[/COLOR][/B]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2LLyBm8<externallink>
-<thumbnail>https://i.imgur.com/CfUOBOZ.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/TxNKvYO.jpg</thumbnail>
 <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
 <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -184,7 +147,7 @@
 <title>[COLOR red][B] Estigmas:[/COLOR][/B]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2M9B46b<externallink>
-<thumbnail>https://i.imgur.com/YawrAqf.png</thumbnail>
+<thumbnail>https://i.imgur.com/CfUOBOZ.jpg</thumbnail>
 <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
 <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
