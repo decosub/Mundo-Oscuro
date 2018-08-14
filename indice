@@ -614,14 +614,6 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR red][B] Mago Merlín:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
- <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR red][B] Baba Vanga:[/COLOR][/B]</title>
@@ -766,7 +758,15 @@
  <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
 <item>
+<title>[COLOR red][B] Madre Shipton:[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
+ <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 
 
