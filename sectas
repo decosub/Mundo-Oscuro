@@ -128,7 +128,7 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
+<title>[COLOR white][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sectas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/4qDwRrJ.jpg</thumbnail>
@@ -138,7 +138,7 @@
 
 
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
+<title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+sectas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/4qDwRrJ.jpg</thumbnail>
@@ -147,7 +147,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
+<title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+sectas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/4qDwRrJ.jpg</thumbnail>
@@ -155,7 +155,7 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR red][B] Buscador de Contenidos: Sectas[/B][/COLOR]</title>
+<item><title>[COLOR white][B] Buscador de Contenidos: Sectas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
