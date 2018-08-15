@@ -124,6 +124,15 @@
 </item>
 
 <item>
+<title>[COLOR red][B] The Hum (Zumbidos):[/COLOR][/B]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+the+hum+o+zumbidos&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/7E8nV7U.jpg</thumbnail>
+<fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR red][B] Orbs (Bolas de Luz):[/COLOR][/B]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=orbs+documentales&search_type=playlist</jsonrpc>
