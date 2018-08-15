@@ -12,7 +12,7 @@
 <item>
 <title>[COLOR red][B] Cienciologia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2Lie08I</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+cienciologia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/wtEx4oW.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Iluminatis:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2OdyRI8</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+iluminatis&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Dn8tFcF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,7 +30,7 @@
 <item>
 <title>[COLOR red][B] La Orden del Templo Solar:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2A9AOT6</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+orden+del+templo+solar&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/zJlKXoD.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -39,7 +39,7 @@
 <item>
 <title>[COLOR red][B] El Templo del Pueblo:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v0PyxS</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+templo+del+pueblo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/FE9zWxy.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -48,7 +48,7 @@
 <item>
 <title>[COLOR red][B] Los Raelianos:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LjTAfG</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+los+raelianos&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Kq8RlZM.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR red][B] Aum Shinrikyo ( Verdad Suprema):[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2uYqcRb</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+verdad+suprema&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/beMVZJ9.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -67,7 +67,7 @@
 <item>
 <title>[COLOR red][B] El Movimiento para la Restauración de los 10 Mandamientos:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2A8MYM6</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+el+movimiento+para+la+restauracion+de+los+10+mandamientos&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/2NBsKDp.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -76,7 +76,7 @@
 <item>
 <title>[COLOR red][B] La Familia Manson:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2A74Oix</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+familia+manson&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/C3hIRX0.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -85,7 +85,7 @@
 <item>
 <title>[COLOR red][B] Niños de Dios:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2uMndvM</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+ninos+de+dios&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/0AQwXqC.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -95,7 +95,7 @@
 <item>
 <title>[COLOR red][B] Nuevo Acropolis:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2Lmn5xg</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+nuevo+acropolis&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/D4g0HPO.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -104,7 +104,7 @@
 <item>
 <title>[COLOR red][B] Rosacruces:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2mGcBtU</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+rosacruces&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/C5prsUe.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -113,7 +113,7 @@
 <item>
 <title>[COLOR red][B] La Iglesia de la Unificación:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LiaLOA</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+iglesia+de+la+unificacion&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Lj97ujv.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -122,7 +122,7 @@
 <item>
 <title>[COLOR red][B] Heaven’s Gate:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LmsAMH</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+Heaven+Gate&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/bhP8P9s.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -243,7 +243,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
