@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Los Experimentos mas Macabros:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LN5tXB</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+experimentos+macabros&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/OjYPqwO.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,7 +30,7 @@
 <item>
 <title>[COLOR red][B] Rituales de Enterramientos:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LD9LnH</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ritos+funerarios&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/DirDXiK.jpg</thumbnail>
  <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -39,7 +39,7 @@
 <item>
 <title>[COLOR red][B] Torturas:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v9y3LR</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+torturassp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/WPK6839.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -48,7 +48,7 @@
 <item>
 <title>[COLOR red][B] Las Desapariciones mas Extrañas:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2uP2Zli</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+desapariciones+extranas&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/YZIbi59.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR red][B] Los Crimenes mas Sangrientos de la Historia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2Aq6kwr</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+crimenes+sangrientos&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/L0o7aoQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
