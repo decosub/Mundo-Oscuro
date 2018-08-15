@@ -2,7 +2,7 @@
 <title>[COLOR white][B] Resultados Frases celebres del Cine de Terror[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -99,7 +99,7 @@
 
 
 <item>
-<title>[COLOR white][B] Si has Acertado de 0 a 3 [/B][/COLOR]</title>
+<title>[COLOR red][B] Si has Acertado de 0 a 3 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -118,13 +118,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR white][B] Si has Acertado de 3 a 6 [/B][/COLOR]</title>
+<title>[COLOR red][B] Si has Acertado de 3 a 6 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -143,13 +143,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR white][B] Si has Acertado de 6 a 10 [/B][/COLOR]</title>
+<title>[COLOR red][B] Si has Acertado de 6 a 10 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -168,7 +168,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -177,7 +177,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR red][B] Volver a los Test: Frases Celebres del Cine de Terror[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2P1L3w3</externallink>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
