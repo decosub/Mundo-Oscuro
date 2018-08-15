@@ -4,104 +4,103 @@
 <title>[COLOR white][B] MITOS Y LEYENDAS:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/q7Y0w25.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR white][B] Zombi:[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+zombi&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/SMlBRNs.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Vampiros:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NWoVC2</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+vampiros&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/yCmsZtQ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Slenderman:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2KfM7sG</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+slenderman&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/hXqrHey.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] El caballero de la Cabeza Cortada:[/COLOR][/B]</title>
+<title>[COLOR red][B] La Chica de la curva:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2mZzTeF</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR red][B] La niña de la curva:[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2LG1cJI</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+la+chica+de+la+curva&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/HjpkJeX.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Licantropos:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NWhXNu</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+licantropos&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/q7Y0w25.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] El Chupacabras:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2vo7v9M</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+chupacabras&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/NWLuwKr.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Contenido Genral:[/COLOR][/B]</title>
+<title>[COLOR white][B] Contenido Genral:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mitos+y+leyendas&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/q7Y0w25.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
+<title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+mitos+y+leyendas&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/q7Y0w25.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
+<title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+mitos+y+leyendas&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/q7Y0w25.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Mitos y Leyendas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de las leyendas...[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -126,7 +125,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Mundo Oscuro[/B][/COLOR] [COLOR red]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=leyendas' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=mitos+leyendas' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
@@ -181,15 +180,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2NsqTKf</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-<item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2NsqTKf</externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
+ <fanart>https://i.imgur.com/q7Y0w25.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
