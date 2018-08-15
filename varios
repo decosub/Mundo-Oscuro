@@ -39,7 +39,7 @@
 <item>
 <title>[COLOR red][B] Torturas:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+torturassp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+torturas&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/WPK6839.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -134,9 +134,9 @@
 
 
 <item>
-<title>[COLOR red][B] Radioestesis:[/COLOR][/B]</title>
+<title>[COLOR red][B] Radioestesia:[/COLOR][/B]</title>
 <link>ignore</link>
-<externallink>https://bit.ly/2LLyBm8<externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+raioestesiasp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/TxNKvYO.jpg</thumbnail>
 <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
 <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -146,7 +146,7 @@
 <item>
 <title>[COLOR red][B] Estigmas:[/COLOR][/B]</title>
 <link>ignore</link>
-<externallink>https://bit.ly/2M9B46b<externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+estigmas&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/CfUOBOZ.jpg</thumbnail>
 <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
 <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
