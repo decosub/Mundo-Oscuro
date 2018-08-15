@@ -9,7 +9,7 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR white][B] Zombi:[/B][/COLOR]</title>
+<title>[COLOR red][B] Zombi:[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+zombi&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/SMlBRNs.jpg</thumbnail>
@@ -177,7 +177,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2NsqTKf</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
