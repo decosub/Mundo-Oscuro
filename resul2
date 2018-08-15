@@ -117,7 +117,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -142,7 +142,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -166,7 +166,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
- <thumbnail>https://i.imgur.com/CtVLM7j.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/nxcWuoC.jpg</thumbnail>
  <fanart>https://i.imgur.com/T7SFUmF.jpg</fanart>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
