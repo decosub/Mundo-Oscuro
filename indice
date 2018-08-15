@@ -1050,7 +1050,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Literatura en Pdf:[/COLOR][/B]</title>
+<title>[COLOR red][B] Relatos de Terror:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
@@ -1235,7 +1235,7 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR red][B] CANALES ESOTERICOS:[/B][/COLOR]</title>
+<title>[COLOR red][B] Canales Esotericos:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
@@ -1244,7 +1244,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] CANALES ESPIRITISMO :[/COLOR][/B]</title>
+<title>[COLOR red][B] Canales Espiritismo:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
@@ -1253,7 +1253,15 @@
 </item>
 
 <item>
-<title>[COLOR red][B] CANALES OCULTIMOS:[/COLOR][/B]</title>
+<title>[COLOR red][B] Canales Ocultismo:[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
+ <fanart>https://i.imgur.com/KjSkvtY.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Canales con contenido de Terror:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
@@ -1262,7 +1270,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] CANALES CON CONTENIDO GENERAL:[/COLOR][/B]</title>
+<title>[COLOR red][B] Canales con Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/KjSkvtY.jpg</thumbnail>
