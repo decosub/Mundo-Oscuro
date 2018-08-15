@@ -12,7 +12,7 @@
 <item>
 <title>[COLOR red][B] Nostradamus:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2AlNPsI</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+nostradamus&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Los Mayas:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LI5gYV</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+mayas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -30,7 +30,7 @@
 <item>
 <title>[COLOR red][B] Los Egipcios:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2OoK4FY</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+ejepcias&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -39,7 +39,7 @@
 <item>
 <title>[COLOR red][B] Julio Verne:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2mSJ3tj</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+julio+verne&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -48,7 +48,7 @@
 <item>
 <title>[COLOR red][B] Rasputin:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v1qKq6</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+rasputin&search_type=playlist</jsonrpc>
   <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR red][B] San Malaquias:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2K4Rkn9</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+san+malequias&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -66,7 +66,7 @@
 <item>
 <title>[COLOR red][B] Benjamin Solari Parravicini:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2KaAe7c</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+benjamin+solari+parravicini&search_type=playlist</jsonrpc>
   <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -75,7 +75,7 @@
 <item>
 <title>[COLOR red][B] Agripa ( El Nigromante ):[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LyuLga</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+agripa&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -84,7 +84,7 @@
 <item>
 <title>[COLOR red][B] Jeane Dixon:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NQ7S4q</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+jeane+dixon&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -93,7 +93,7 @@
 <item>
 <title>[COLOR red][B] Edgar Cayce:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2K5rmjl</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+edgar+cayce&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -102,7 +102,7 @@
 <item>
 <title>[COLOR red][B] Los Profetas Bíblicos:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LYnSkk</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+biblicas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -112,7 +112,7 @@
 <item>
 <title>[COLOR red][B] Baba Vanga:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LJTf5q</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+baba+vanga&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -121,7 +121,7 @@
 <item>
 <title>[COLOR red][B] Santa Faustina:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2vcoYBW</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+santa+faustina&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -130,7 +130,7 @@
 <item>
 <title>[COLOR red][B] Hermana Lucía:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2Ke7Lh6</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+hermana+lucia&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -139,7 +139,7 @@
 <item>
 <title>[COLOR red][B] Allan Kardec:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v16OUj</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+allan+kardec&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart>  
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -148,7 +148,7 @@
 <item>
 <title>[COLOR red][B] Saint Germain:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2vgFdOs</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+saint+germain&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -157,7 +157,7 @@
 <item>
 <title>[COLOR red][B] Gordon Michael Scallion:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2vjzXcD</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+gordon+michael+scallion&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -166,7 +166,7 @@
 <item>
 <title>[COLOR red][B] Helena Blavatsky:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2vjzXcD</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+helena+blavatsky&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -175,7 +175,7 @@
 <item>
 <title>[COLOR red][B] Joseph Smith:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v0VSpF</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+joseph+smith&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -184,7 +184,7 @@
 <item>
 <title>[COLOR red][B] Alois Irlmaier:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2NQZce0</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+alois+irlmaier&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -193,7 +193,7 @@
 <item>
 <title>[COLOR red][B] John Dee:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v2jQRv</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+jhon+dee&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -202,7 +202,7 @@
 <item>
 <title>[COLOR red][B] Charles Webster Leadbeater:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LLCqHf</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+Charles+Webster+Leadbeater&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -211,7 +211,7 @@
 <item>
 <title>[COLOR red][B] Eryl Mai Jones ( Aberfan ):[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2v3ccpX</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+aberfan&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -220,7 +220,7 @@
 <item>
 <title>[COLOR red][B] Mitar Tarabich:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2AoZ0Rx</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+mitar+tarabich&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -228,7 +228,7 @@
 <item>
 <title>[COLOR red][B] Sibila ( Herófila ):[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2K9VR7L</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+de+sibila+Herófila&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/LmgGqqg.jpg</thumbnail>
  <fanart>https://i.imgur.com/d7Q3miH.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
