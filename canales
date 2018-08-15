@@ -137,14 +137,72 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR white][B] CANALES CON CONTENIDO DE TERROR:[/COLOR][/B]</title>
+<link>nolink</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Terror De Medianoche[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/ZwXNLh8w664/playlist/UUP5Z5MQzPQECXFrAxTP4bxw/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Mundo Terror[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/dRIB5kvKjyQ/playlist/UUFSU9GlaOOdyyVQ98iAd_fg/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
+<item>
+<title>[COLOR red][B] Terror y Miedos Reales[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/e1MK8k3_Wak/playlist/UU3gq5L82tXfjkBCa3dreWRQ/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
+<item>
+<title>[COLOR red][B] Soy Vox [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/FLEOMCheCbo/playlist/UUpiu0Qj6LE2pzAAEIlhfCXw/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Relatos de Terror [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/91P157Xd5J4/playlist/PL2s7mrEKWZPdGj7zx6gTjnW1K7kSarihm/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 
 <item>
 <title>[COLOR white][B] CANALES CON CONTENIDO GENERAL:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] DrossRotzank Misterios & Hechos perturbadores[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/3DbpcMlrpf8/playlist/PLqivnvaruBVGILSU7zT1chU7PJ4Actf8S/</jsonrpc>
  <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -185,6 +243,83 @@
  <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
+<item>
+<title>[COLOR red][B] Daniel Miestrio[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/ap_IYT2kUAc/playlist/UU5c1JcpBT_rBVxRbv8RG9uA/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Milenio 3[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/yQIviof6CXU/playlist/UUVV-yK-iSFrdD3sKyPXvMsg/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Un Mundo de MIsterio[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/jxiUFBDYdHs/playlist/UUeyTNCbstyoprySqvqVe6mA/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Proyecto Paranormal[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/GpBV98gM5J8/playlist/UUaLsNa7RiImSb1tz_zZSQEw/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Paranormal Activity[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/C9JrfBXuYE8/playlist/UUPVNvt0EvdEs9_ldJASELjg/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] El camino Paranormal[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/wv55Fpv7-ms/playlist/UUBQZBHKhxXYnkJK7CMf3xig</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Division Enigma [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/LWJxA7NR-c0/playlist/UULQZ7oRJNS9byuZt59Zsakw/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Archivo Paranormal HD[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/3GhE1LL7Yxc/playlist/UUiSYdbC1TIpc5m8LZlAjXyg/</jsonrpc>
+ <thumbnail>https://i.imgur.com/2hEteWG.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+
+
+
+
+
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
