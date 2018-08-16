@@ -4,62 +4,62 @@
 <title>[COLOR white][B] PRINCIPAL JERARQUIA:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Belcebu[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+belcebu&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Astarot:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+astarot&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Asmodeo:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+asmodeo&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Belfegor:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+belfegor&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Azazel:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+azazel&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR red][B] Lilith:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+lilith&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -67,42 +67,51 @@
 <item>
 <title>[COLOR red][B] Ammón:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonio+amon&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
+<title>[COLOR white][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonios&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/nEe07ak.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
+<title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+demonio&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/nEe07ak.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink></externallink>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/nEe07ak.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Demoniacos[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo del Espiritismo...[/COLOR]</title></info>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo Demoniaco..[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
+ <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -179,10 +188,10 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
- <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]Volver al Menu Principal...[/COLOR]</title></info>
 </item>
