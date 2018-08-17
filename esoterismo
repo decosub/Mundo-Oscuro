@@ -12,7 +12,7 @@
 <item>
 <title>[COLOR red][B] Geomancia:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2mOMvoS</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=geomancia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/OH30FpA.jpg</thumbnail>
   <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
