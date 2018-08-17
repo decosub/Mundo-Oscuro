@@ -72,14 +72,14 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
+<title>[COLOR white][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demoniaco&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
  <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart>  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
+<title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+demoniacol&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
+<title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+demonio&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
@@ -186,7 +186,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
  <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
