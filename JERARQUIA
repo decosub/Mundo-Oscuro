@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][B] PRINCIPAL JERARQUIA:[/B][/COLOR]</title>
+<title>[COLOR white][B] JERARQUIA:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
@@ -77,7 +77,7 @@
 <title>[COLOR white][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=demonios&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/nEe07ak.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/ym68bUL.jpg</thumbnail>
  <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -86,7 +86,7 @@
 <title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+demonio&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/nEe07ak.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/ym68bUL.jpg</thumbnail>
  <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -94,13 +94,13 @@
 <item>
 <title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+el+demonio&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/nEe07ak.jpg</thumbnail>
- <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
+ <fanart>https://i.imgur.com/ym68bUL.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Demoniacos[/B][/COLOR]</title>
+<item><title>[COLOR white][B] Buscador de Contenidos: Demoniaco[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/YtOCBkO.jpg</fanart> 
