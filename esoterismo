@@ -5,7 +5,7 @@
 <link>nolink</link>
 <externallink></externallink>
   <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -14,7 +14,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=geomancia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/OH30FpA.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -23,7 +23,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/2vcQY8j</externallink>
  <thumbnail>https://i.imgur.com/gHVNOPa.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -32,7 +32,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/2LJ6zXu</externallink>
  <thumbnail>https://i.imgur.com/veZ4qL1.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -41,7 +41,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/2mMkSwz</externallink>
  <thumbnail>https://i.imgur.com/TJbxbrj.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -50,7 +50,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/2v6HHi4</externallink>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -59,7 +59,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/2LJ7GGE</externallink>
  <thumbnail>https://i.imgur.com/d7TEwq1.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -68,7 +68,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=gemoterapia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/9EgAUuy.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
@@ -76,7 +76,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=esoterismo&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -85,7 +85,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+esoterismo&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -94,14 +94,14 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+esoterismo&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Esoterismo[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>terismo
  <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo del Esoterismo...[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
@@ -109,7 +109,7 @@
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
  <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -190,7 +190,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
-  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
