@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][B] TAROT[/B][/COLOR]</title>
+<title>[COLOR white][B] TAROT:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
   <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
+<item>
+<title>[COLOR white][B] Curso de Tarot Basico:[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/rau8OfCnD7Y/playlist/PLWuyLrd8ZrWq5tfojFj19kgkAzcy084l2/</jsonrpc>
+ <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR white][B] CURSO DE TAROT - Carta por Carta:[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/gXZR5vc71k4/playlist/PLi99_Vb_rFSmX3IMOfj71NTbNB24wNfyd/</jsonrpc>
+ <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR white][B] Psicología del Tarot  :[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/MBH2dYVBCo8/playlist/PLbs1sU7bneqij_dHuPmTErBD_ni1fun6e/</jsonrpc>
+ <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Curso de Tarot Completo:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/xwRL9EvVxew/playlist/PL6ajGvPEJBC506EcRDGrzpVLWBH4iKXt8/</jsonrpc>
+ <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
 
 <item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
