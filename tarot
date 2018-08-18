@@ -8,6 +8,14 @@
   <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+<item>
+<title>[COLOR white][B] Tarot por Jodorowsky:[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Tarot+jodorowsky&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR white][B] Curso de Tarot Basico:[/B][/COLOR]</title>
