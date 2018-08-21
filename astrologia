@@ -10,6 +10,24 @@
 </item>
 
 <item>
+<title>[COLOR red][B] Curso de Astrologia:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/uUPYx1C7vTE/playlist/PLO8z9d6TCmOoo3Zpra2WItmXGRDhhOv5w/</jsonrpc>
+ <thumbnail>https://i.imgur.com/7ue9Njw.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Cartas Astrales:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cartas+astrales&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/7ue9Njw.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astrologia&search_type=playlist</jsonrpc>
@@ -17,6 +35,8 @@
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
+
 
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
@@ -38,7 +58,7 @@
 
 <item><title>[COLOR white][B] Buscador de Contenidos: ASTROLOGIA[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de la aSTROLOGIA.[/COLOR]</title></info>
 <regex>
@@ -46,7 +66,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
