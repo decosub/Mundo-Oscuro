@@ -8,8 +8,9 @@
   <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
 <item>
-<title>[COLOR white][B] Tarot por Jodorowsky:[/B][/COLOR]</title>
+<title>[COLOR red][B] Tarot por Jodorowsky:[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Tarot+jodorowsky&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
@@ -18,23 +19,25 @@
 </item>
 
 <item>
-<title>[COLOR white][B] Curso de Tarot Basico:[/B][/COLOR]</title>
+<title>[COLOR red][B] Curso de Tarot Basico:[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/rau8OfCnD7Y/playlist/PLWuyLrd8ZrWq5tfojFj19kgkAzcy084l2/</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
   <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
 <item>
-<title>[COLOR white][B] CURSO DE TAROT - Carta por Carta:[/B][/COLOR]</title>
+<title>[COLOR red][B] Curso de Tarot ( Carta por Carta ):[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/gXZR5vc71k4/playlist/PLi99_Vb_rFSmX3IMOfj71NTbNB24wNfyd/</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
   <fanart>https://i.imgur.com/sSZfg9w.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
+
 <item>
-<title>[COLOR white][B] Psicología del Tarot  :[/B][/COLOR]</title>
+<title>[COLOR red][B] Psicología del Tarot  :[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/MBH2dYVBCo8/playlist/PLbs1sU7bneqij_dHuPmTErBD_ni1fun6e/</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
@@ -54,7 +57,7 @@
 
 
 <item>
-<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
+<title>[COLOR white][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Tarot&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
@@ -63,7 +66,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
+<title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+Tarot&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
@@ -72,7 +75,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
+<title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+Tarot&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/5ZOUzZT.jpg</thumbnail>
@@ -168,7 +171,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
