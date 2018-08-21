@@ -9,8 +9,27 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+
 <item>
-<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
+<title>[COLOR red][B] Aprende Artes Adivinatorias y Parapsicología:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/trdMDx67Jg8/playlist/PL_VPH9dxCTdtDw44ZVGnqJzxKwGGpAd0a/</jsonrpc>
+ <thumbnail>https://i.imgur.com/MQl82sp.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Quiromancia:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=quiromancia&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/MQl82sp.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=adivinacion&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/MQl82sp.jpg</thumbnail>
@@ -19,7 +38,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
+<title>[COLOR white][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+la+adivinacion&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/MQl82sp.jpg</thumbnail>
@@ -28,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
+<title>[COLOR white][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+sobre+la+adivinacion&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/MQl82sp.jpg</thumbnail>
@@ -38,7 +57,7 @@
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Adivinacioon[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de la Adivinacion ..[/COLOR]</title></info>
 <regex>
@@ -46,7 +65,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
-  <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
@@ -124,7 +143,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
