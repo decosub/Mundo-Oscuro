@@ -10,6 +10,15 @@
 </item>
 
 <item>
+<title>[COLOR red][B] Desarrollar la Clarividencia:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/3O1YyR9LarI/playlist/PLX8G4eiXYtxkMjKNMbJuqaoREe5ZBq0zb/</jsonrpc>
+ <thumbnail>https://i.imgur.com/t4PcTvT.jpg</thumbnail>
+ <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Clarividencia&search_type=playlist</jsonrpc>
@@ -38,7 +47,7 @@
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Clarividencia[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart>  
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de la Clarividencia.[/COLOR]</title></info>
 <regex>
@@ -46,7 +55,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/omwIUKQ.jpg</fanart>  
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
