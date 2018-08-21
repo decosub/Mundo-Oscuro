@@ -20,7 +20,7 @@
 <item>
 <title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sesiones+espiritismo&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sesiones+espiritismo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -29,7 +29,7 @@
 <item>
 <title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+sesiones+espiritismo&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+sesiones+espiritismo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -38,7 +38,7 @@
 <item>
 <title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+sesiones+espiritismo&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+sesiones+espiritismo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/hKnOCYS.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -46,7 +46,7 @@
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Sesiones de Espiritismo[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de las Sesiones de Espiritismo...[/COLOR]</title></info>
 <regex>
@@ -54,7 +54,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
- <thumbnail>https://i.imgur.com/O1QmGat.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
  <fanart>https://i.imgur.com/kdnfbmc.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
