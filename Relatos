@@ -45,6 +45,15 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR white][B] Contenido General[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=relatos+de+terror&sp=CAI%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/vCcHcgd.jpg</thumbnail>
+ <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
