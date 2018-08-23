@@ -38,6 +38,14 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR red][B] Peliculas Posesiones:[/COLOR][/B]</title>
+<utube>yBc3qjtyhxs</utube>
+ <thumbnail>https://i.imgur.com/x8lzh6G.jpg</thumbnail>
+ <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Peliculas de Terror[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
