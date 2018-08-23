@@ -165,7 +165,6 @@ class InputWindow(xbmcgui.WindowDialog):
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
-<link>nolink</link>
 <utube>yBc3qjtyhxs</utube>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
  <fanart>https://i.imgur.com/ZFZeewo.jpg</fanart> 
