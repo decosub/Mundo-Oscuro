@@ -67,7 +67,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://bit.ly/2vCXBlr</externallink>
  <thumbnail>https://i.imgur.com/SQYgAzf.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+ <info>[COLOR white]Que te deparara el dia de hoy segun los astros..[/COLOR]</title></info>
 </item>
 
 <item>
@@ -77,6 +77,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <thumbnail>https://i.imgur.com/Tm9GnY3.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
  <info>[COLOR white]Cruza el Umbral a otros mundos desconocidos y paranormales.[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][B] LAS VOCES DE KODI[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2vCXBlr</externallink>
+ <thumbnail>https://i.imgur.com/2VaD3jS.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]Seccion Comunitaria, un lugar donde compartir tus vivencias o tus relatos favoritos...[/COLOR]</title></info>
 </item>
 
 <item>
@@ -161,5 +170,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
  <thumbnail>https://i.imgur.com/cU6LE7S.jpg</thumbnail>
  <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
-<info>[COLOR white]Contacta con los creadores del Addon para reportar fallos...entre todos lo hacemos grande KODI[/COLOR]</info>
+<info>[COLOR white]Contacta con los creadores del Addon para reportar fallos...entre todos hacemos grande KODI[/COLOR]</info>
 </item>
