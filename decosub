@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][B] OTROS ADDON DEL MISMO CREADOR:[/B][/COLOR]</title>
+<title>[COLOR lime][B] OTROS ADDON DEL MISMO CREADOR:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
   <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
@@ -22,6 +22,7 @@
 
 <item>
 <title>[COLOR red][B] TESLA:[/B][/COLOR]</title>
+<link>nolink</link>
 <jsonrpc>plugin.video.ovni-0.0.1.zip</jsonrpc>
 <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
@@ -46,3 +47,15 @@ plugin.video.ovni-0.0.1.zip
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+<item>
+name="Addon ALMA relax"
+url="https://www.dropbox.com/s/y63b98zf11oif3t/alma.zip?dl=1" 
+img="https://i.imgur.com/fuicvMT.jpg"
+fanart="https://i.imgur.com/MR94bX3.jpg"
+description="Addon crecimiento personal y meditacion"
+</item>
+name="Addon ALMA relax"
+url="https://www.dropbox.com/s/y63b98zf11oif3t/alma.zip?dl=1" 
+img="https://i.imgur.com/fuicvMT.jpg"
+fanart="https://i.imgur.com/MR94bX3.jpg"
+description="Addon crecimiento personal y meditacion"
