@@ -38,14 +38,6 @@
  <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR gray][B] ALMA [/B][/COLOR][COLOR lime][B] Relax 2.0[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
-<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/USWahH7.jpg</thumbnail>
- <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR red][B] Disponibles en la fuente Catoal:[/B][/COLOR][COLOR white][B] (http://catoal.org)[/B][/COLOR]</title>
@@ -65,7 +57,7 @@
  <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
