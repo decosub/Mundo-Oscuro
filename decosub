@@ -23,7 +23,7 @@
 <item>
 <title>[COLOR white][B] TESLA[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2lqcXV2</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/7B4yKo8.jpg</thumbnail>
  <info>[COLOR white][B]La Ciencia y la Fisica al alcance de todos, completo Addon dedicado a la tematica Cientifica que abarca todas las disciplimas cientificas...[/B][/COLOR]</title></info>
@@ -32,14 +32,40 @@
 <item>
 <title>[COLOR gray][B] ALMA [/B][/COLOR][COLOR lime][B] Relax 2.0[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MxWBcO</externallink>
+<externallink></externallink>
 <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/USWahH7.jpg</thumbnail>
  <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<title>[COLOR gray][B] ALMA [/B][/COLOR][COLOR lime][B] Relax 2.0[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/USWahH7.jpg</thumbnail>
+ <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Disponibles en la fuente Catoal:[/B][/COLOR][COLOR white][B] (http://catoal.org)[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MxWBcO</externallink>
+<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/Q8JG5ME.jpg</thumbnail>
+ <info>[COLOR white][B]Estos Addons y muchos mas se encuentran disponibles en la fuente Catoal[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Telegram:[/B][/COLOR][COLOR white][B] Grupo (@Catana)[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MxWBcO</externallink>
+<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/Q8JG5ME.jpg</thumbnail>
+ <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2zP0y7g</externallink>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
