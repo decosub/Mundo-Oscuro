@@ -22,6 +22,7 @@
 
 <item>
 <title>[COLOR white][B] TESLA[/B][/COLOR]</title>
+<link>ignorme</link>
 <jsonrpc>plugin://plugin.video.Tesla</jsonrpc>
   <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/7B4yKo8.jpg</thumbnail>
@@ -30,6 +31,7 @@
 
 <item>
 <title>[COLOR gray][B] ALMA [/B][/COLOR][COLOR lime][B] Relax 2.0[/B][/COLOR]</title>
+<link>ignorme</link>
 <jsonrpc>plugin://plugin.video.alma</jsonrpc>
 <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/USWahH7.jpg</thumbnail>
@@ -39,7 +41,7 @@
 
 <item>
 <title>[COLOR red][B] Disponibles en la fuente Catoal:[/B][/COLOR][COLOR white][B] (http://catoal.org)[/B][/COLOR]</title>
-<link>nolink</link>
+<link>http://catoal.org</link>
 <externallink></externallink>
 <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/Q8JG5ME.jpg</thumbnail>
