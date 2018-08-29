@@ -6,7 +6,15 @@
 <externallink></externallink>
   <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
- <info>[COLOR white][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]Otros Addons de Contenido Tematico del Mismo creador...[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Importante tener instalado Repositorio Decosub...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+  <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+ <info>[COLOR white][B]Repositorio Disponible en la Fuente Catoal (http://catoal.org)[/B][/COLOR]</title></info>
 </item>
 
 
@@ -41,8 +49,8 @@
 
 <item>
 <title>[COLOR red][B] Disponibles en la fuente Catoal:[/B][/COLOR][COLOR white][B] (http://catoal.org)[/B][/COLOR]</title>
-<link>http://catoal.org</link>
-<externallink></externallink>
+<link>ignorme</link>
+<externallink>http://catoal.org</externallink>
 <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/Q8JG5ME.jpg</thumbnail>
  <info>[COLOR white][B]Estos Addons y muchos mas se encuentran disponibles en la fuente Catoal[/B][/COLOR]</title></info>
@@ -59,9 +67,8 @@
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
-<link>nolink</link>
+<utube>cIKj8Le6gb0</utube>
 <externallink>https://bit.ly/2zP0y7g</externallink>
- <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
  <info>[COLOR white]Volver al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
