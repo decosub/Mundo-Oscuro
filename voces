@@ -27,11 +27,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR red][B] El Pantano De la Luna:[/B][/COLOR][COLOR white][B] Narrado por Anabel (@SiempreFuerte78)[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/HdIsd0B.jpg</thumbnail>
+  <fanart>https://i.imgur.com/suyMzcF.jpg</fanart> 
+ <info>[COLOR white]Fantastico relato de H.P.Lovecraft narrado por Anabel Del Grupo Catana... Nuestro mas sincero agradecimiento[/COLOR]</title></info>
+</item>
 
 
 
 <item>
-<title>[COLOR red][B] Email:[/B][/COLOR][COLOR white][B] lasvocesdekodi@gmail.com [/B][/COLOR]</title>
 <title>[COLOR red][B] Email:[/B][/COLOR][COLOR white][B] lasvocesdekodi@gmail.com [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
