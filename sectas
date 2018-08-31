@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Vanessa empieza la busqueda.. [/B][/COLOR]</title>
+<title>[COLOR white][B] Vanessa empieza la busqueda.. [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -39,7 +39,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+cienciologia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/wtEx4oW.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -48,7 +48,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+iluminatis&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Dn8tFcF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -57,7 +57,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+orden+del+templo+solar&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/zJlKXoD.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+templo+del+pueblo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/FE9zWxy.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -75,7 +75,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+los+raelianos&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Kq8RlZM.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+verdad+suprema&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/beMVZJ9.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -94,7 +94,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+el+movimiento+para+la+restauracion+de+los+10+mandamientos&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/2NBsKDp.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -103,7 +103,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+familia+manson&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/C3hIRX0.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+ninos+de+dios&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/0AQwXqC.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -122,7 +122,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+nuevo+acropolis&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/D4g0HPO.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -131,7 +131,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+rosacruces&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/C5prsUe.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -140,7 +140,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+iglesia+de+la+unificacion&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Lj97ujv.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -149,7 +149,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+Heaven+Gate&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/bhP8P9s.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 <item>
@@ -157,7 +157,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sectas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/4qDwRrJ.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -167,7 +167,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+sectas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/4qDwRrJ.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -176,14 +176,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+sectas&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/4qDwRrJ.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR white][B] Buscador de Contenidos: Sectas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de las Sectas..[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
@@ -191,7 +191,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR white] Mundo Oscuro: [/COLOR][COLOR red][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
  <thumbnail>https://i.imgur.com/l1hSgg9.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -271,6 +271,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR red][B] Volver al Menu Principal[/COLOR][/B]</title>
 <utube>gPKL2QJbVgI</utube>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <fanart>https://i.imgur.com/kpjU4jW.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
