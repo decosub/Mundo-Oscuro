@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR red][B] El Principio del fin... [/B][/COLOR]</title>
+<title>[COLOR red][B] Los Espectros de Vanessa [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
