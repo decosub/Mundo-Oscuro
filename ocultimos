@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] La Nueva Casa[/B][/COLOR]</title>
+<title>[COLOR white][B] En la Nueva Casa... Cap2[/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
