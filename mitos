@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] El Cunjuro... [/B][/COLOR]</title>
+<title>[COLOR white][B] El Cunjuro... Cap9 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
