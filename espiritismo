@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR red][B] Los Espectros de Vanessa [/B][/COLOR]</title>
+<title>[COLOR white][B] Los Espectros de Vanessa... Cap6 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
