@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR white][B] La Primera noche...Cap 1 [/B][/COLOR]</title>
+<title>[COLOR red][B] La Primera noche...Cap1 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
