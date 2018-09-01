@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR white][B] Conjuros de Michael... [/B][/COLOR]</title>
+<title>[COLOR white][B] Conjuros de Michael... Cap7[/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
