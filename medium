@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] El fin... [/B][/COLOR]</title>
+<title>[COLOR white][B] El fin...Cap15 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
