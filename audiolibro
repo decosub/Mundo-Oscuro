@@ -13,7 +13,7 @@
 <item>
 <title>[COLOR white][B] Audio Libro Parapsicologia:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+parapsicologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/ft0KfbnAI0Q/playlist/PLGHD-MuMyNk9uSBPhv5TMbmAEHlCOoQHd/</jsonrpc>
  <thumbnail>https://i.imgur.com/aqpZUvT.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -112,7 +112,8 @@
 
 <item>
 <title>[COLOR red][B] Audio Libro Stephen King:[/COLOR][/B]</title>
-<link>nolink</link><jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+stephen+king&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc> <thumbnail>https://i.imgur.com/wVt60ap.jpg</thumbnail>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/ft0KfbnAI0Q/playlist/PLGHD-MuMyNk9uSBPhv5TMbmAEHlCOoQHd/</jsonrpc>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
