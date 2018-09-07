@@ -11,9 +11,9 @@
 
 
 <item>
-<title>[COLOR white][B] Audio Libro Parapsicologia:[/COLOR][/B]</title>
+<title>[COLOR red][B] Audio Libro Parapsicologia:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=geomancia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+parapsicologia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/aqpZUvT.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -21,8 +21,7 @@
 
 <item>
 <title>[COLOR red][B] Audio Libro Terror:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+terror&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+terror&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/q0UgF9R.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -31,7 +30,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Misterio:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+misterio&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+misterio&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/cmT3j1q.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -40,7 +39,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Ocultismo:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+ocultismo&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+ocultismo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/omwIUKQ.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -50,7 +49,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Esoterico:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+esoterismo&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+esoterismo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/sSZfg9w.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -59,7 +58,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Espiritismo:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+espiritismo&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+espiritismo&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/kdnfbmc.jpg</thumbnail>
   <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -68,7 +67,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Astrologia:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+astrologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+astrologia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/TJbxbrj.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -85,7 +84,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Demonios:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+demoniaco&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+demonios&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/M79qlSu.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -95,7 +94,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Brujeria:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+brujeria+brujas&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+brujas+brujeria&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/s7taRX3.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -105,7 +104,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Druidas:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+druidas&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+druidas&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/Lu3xTHm.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -113,9 +112,7 @@
 
 <item>
 <title>[COLOR red][B] Audio Libro Stephen King:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+stephen+king&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/wVt60ap.jpg</thumbnail>
+<link>nolink</link><jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+stephen+king&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc> <thumbnail>https://i.imgur.com/wVt60ap.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -124,7 +121,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro Edgar Allan Poe:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+edgar+allan+poe&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+edgar+allan+poe&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/wVt60ap.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart>  
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -134,7 +131,7 @@
 <item>
 <title>[COLOR red][B] Audio Libro H.P. Lovecraft:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+HP+Lovecraft&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audio+libro+hp+lovecraft&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/ETmnIdI.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
