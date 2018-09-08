@@ -106,6 +106,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/kqlzqzHyoXU/playlist/PLGHD-MuMyNk_9rEiNVbbhdgGDbR9LnQI5/</jsonrpc>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/wVt60ap.jpg</thumbnail>
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
@@ -114,7 +115,7 @@
 <title>[COLOR red][B] Audio Libro Edgar Allan Poe:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/pXCi7aLKVhE/playlist/PLGHD-MuMyNk-4djL0tGF7in9UCPKRrYeq/</jsonrpc>
- <thumbnail>https://i.imgur.com/wVt60ap.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/ETmnIdI.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart>  
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
@@ -124,7 +125,7 @@
 <title>[COLOR red][B] Audio Libro H.P. Lovecraft:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/uIHmWISmZCk/playlist/PL9PgStfxTrWdbDoGH2BVQ1xbyqGeagm47/</jsonrpc>
- <thumbnail>https://i.imgur.com/ETmnIdI.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/0H95MJZ.jpg</thumbnail>
  <fanart>https://i.imgur.com/67pS3no.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
