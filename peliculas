@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Stephen King:[/COLOR][/B]</title>
+<title>[COLOR red][B] Stephen King:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/1jzB_sqqZZ4/playlist/PLGHD-MuMyNk-jd18upuxjRJHD7OyaYUZf/</jsonrpc>
  <thumbnail>https://i.imgur.com/8YxdQbo.jpg</thumbnail>
@@ -39,15 +39,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Peliculas de Misterio:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+misterio+completa+espanol+castellano&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/hiQVdIV.jpg</thumbnail>
- <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR red][B] Peliculas Satanicas:[/COLOR][/B]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+satanicas+completas+espanol+castellano&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
@@ -59,7 +50,7 @@
 <item>
 <title>[COLOR red][B] Peliculas Gore:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=pelicula+gore+completas+espanol+castellano&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=pelicula+gore+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/UyFRAYw.png</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -68,7 +59,7 @@
 <item>
 <title>[COLOR red][B] Peliculas Paranormales:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+fenomenos+paranormales+completas+espanol+castellano&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+fenomenos+paranormales+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/bpOWmV6.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
