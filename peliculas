@@ -75,15 +75,6 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Peliculas de Espiritus:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+espiritus+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/8m9pJMC.jpg</thumbnail>
- <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR red][B] Peliculas Posesiones:[/COLOR][/B]</title>
 <utube>yBc3qjtyhxs</utube>
  <thumbnail>https://i.imgur.com/a9ICUxm.jpg</thumbnail>
