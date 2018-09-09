@@ -32,7 +32,7 @@
 <item>
 <title>[COLOR red][B] Peliculas de Terror:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+terror+completas+en+espanol+castellano&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+terror+completas+en+espanol+castellano&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/x8lzh6G.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -41,7 +41,7 @@
 <item>
 <title>[COLOR red][B] Peliculas de Misterio:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+misterio+completa&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+misterio+completa&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/hiQVdIV.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -50,7 +50,7 @@
 <item>
 <title>[COLOR red][B] Peliculas Satanicas:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+satanicas+completas&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+satanicas+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/83vd34h.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -59,7 +59,7 @@
 <item>
 <title>[COLOR red][B] Peliculas Gore:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=pelicula+gore+completas&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=pelicula+gore+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/UyFRAYw.png</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -68,7 +68,7 @@
 <item>
 <title>[COLOR red][B] Peliculas Paranormales:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+fenomenos+paranormales+completas&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+fenomenos+paranormales+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/bpOWmV6.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -77,7 +77,7 @@
 <item>
 <title>[COLOR red][B] Peliculas de Espiritus:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+espiritus+completas&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+espiritus+completas&sp=EgIgAQ%253D%253D&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/8m9pJMC.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
