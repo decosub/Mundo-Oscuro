@@ -13,7 +13,7 @@
 <item>
 <title>[COLOR red][B] Stephen King:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+terror+stephen+king&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+terror+stephen+king&sp=EgIYAg%253D%253D</jsonrpc>
  <thumbnail>https://i.imgur.com/8YxdQbo.jpg</thumbnail>
  <fanart>https://i.imgur.com/8YxdQbo.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
