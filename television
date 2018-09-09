@@ -21,7 +21,7 @@
 <item>
 <title>[COLOR red][B] Cuarto Milenio:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+completo&sp=CAMSBBABGAI%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/dCQz-8S_sGI/playlist/PLGHD-MuMyNk81rbcCxoVdeje4N9dl7IJy/</jsonrpc>
  <thumbnail>https://i.imgur.com/MyXAKaH.jpg</thumbnail>
 <fanart>https://i.imgur.com/suyMzcF.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -78,7 +78,7 @@
 <item>
 <title>[COLOR red][B] Masters Of horror:[/COLOR][/B]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=masters+of+horror+espanol&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/kP3HcugAfeE/playlist/PLR0xWEIWn-1rsqooyaL0umEpjqbHePKTF/</jsonrpc>
  <thumbnail>https://i.imgur.com/jWMha2M.jpg</thumbnail>
 <fanart>https://i.imgur.com/suyMzcF.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
@@ -118,9 +118,8 @@
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2zP0y7g</externallink>
+<utube>8ToZ8i2EzCM</utube>
  <thumbnail>https://i.imgur.com/FlVtK2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/suyMzcF.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+ <info>[COLOR white]Bienvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
