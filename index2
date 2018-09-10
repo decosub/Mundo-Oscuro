@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Novedades del Addon[/B][/COLOR][COLOR white][B]Actualizado: 10/09/2018[/B][/COLOR]</title>/
+<title>[COLOR red][B] Novedades del Addon:[/B][/COLOR][COLOR white] Actualizado-10/09/2018[/COLOR]</title>/
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
