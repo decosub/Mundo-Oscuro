@@ -112,7 +112,14 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
-
+<item>
+<title>[COLOR red][B] Buscadores de Fantasmas:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscadores+de+fantasmas&search_type=playlist</jsonrpc>
+ <thumbnail>https://i.imgur.com/4Y0WNmr.jpg</thumbnail>
+<fanart>https://i.imgur.com/suyMzcF.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
 
 
 
