@@ -209,6 +209,15 @@
 </item>
 
 <item>
+<title>[COLOR red][B] Santiago Vázquez - Oficial [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/AI0S4CAT0Rg/playlist/UU4fCXKen2Xltb5BuCphz9ig/</jsonrpc>
+ <thumbnail>https://i.imgur.com/AUiitBY.jpg</thumbnail>
+ <fanart>https://i.imgur.com/fFfILzd.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR red][B] DrossRotzank Misterios & Hechos perturbadores[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/3DbpcMlrpf8/playlist/PLqivnvaruBVGILSU7zT1chU7PJ4Actf8S/</jsonrpc>
