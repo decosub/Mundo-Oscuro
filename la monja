@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][B] LA ISLA DE PASCUA[/B][/COLOR]</title>
+<title>[COLOR white][B] LA Monja ( The Nun )[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
@@ -10,37 +10,63 @@
 </item>
 
 <item>
-<title>[COLOR red][B] Contenido General:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=isla+de+pascua&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+<title>[COLOR red][B] Trailer Hd:[/COLOR][/B]</title>
+<utube>UZ_7__0rBAU</utube>
+ <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Documentales:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+isla+de+pascua&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+<title>[COLOR red][B] Critica:[/COLOR][/B]</title>
+<utube>CInQ5LdBXrI</utube>
+ <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR red][B] Conferencias:[/COLOR][/B]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+isla+de+pascua&search_type=playlist</jsonrpc>
- <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
- <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+<title>[COLOR red][B] Banda Sonora:[/COLOR][/B]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/6nOSXWP3v2M/playlist/PLttqaDFrexQ6MfkWfoFe_2QAIBAfF9URY/</jsonrpc>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Bioquimica, Busqueda General Youtube..[/B][/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR white][B] Buscador de Contenidos: Isla de Pascua[/B][/COLOR]</title>
+
+
+<item>
+<title>[COLOR red][B] Cronologia:[/COLOR][/B]</title>
+<utube>UZ_7__0rBAU</utube>
+ <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Curiosidades:[/COLOR][/B]</title>
+<utube>wFOn7tmDSSI</utube>
+ <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Expediente Warren:[/COLOR][/B]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/S0Hfj9kde1c/playlist/PLttqaDFrexQ6MfkWfoFe_2QAIBAfF9URY/</jsonrpc>
+ <thumbnail>https://i.imgur.com/WzYATpI.jpg</thumbnail>
+ <fanart>https://i.imgur.com/VPZrXqb.jpg</fanart> 
+ <info>[COLOR white]El infierno de Dante...[/COLOR]</title></info>
+</item>
+
+<item><title>[COLOR white][B] Buscador de Contenidos: La monja[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
- <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de La Isla de Pascua..[/COLOR]</title></info>
+ <info>[COLOR white]BIenvenido al buscador de Mundo Oscuro, aqui limitaras la busqueda al mundo de The Nun.[/COLOR]</title></info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -72,7 +98,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Mundo Oscuro[/B][/COLOR] [COLOR red]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=isla+de+pascua' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=la+monja' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
@@ -125,8 +151,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 <item>
 <title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2zP0y7g</externallink>
+<utube>8ToZ8i2EzCM</utube>
  <thumbnail>https://i.imgur.com/Btuh6qF.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
