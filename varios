@@ -9,6 +9,9 @@
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
 
+
+
+
 <item>
 <title>[COLOR red][B] La Santa Inquisicion:[/COLOR][/B]</title>
 <link>nolink</link>
@@ -190,6 +193,14 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=deep+web+terror&search_type=playlist</jsonrpc>
  <thumbnail>https://i.imgur.com/WvUBUfZ.jpg</thumbnail>
+ <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
+ <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
+
+<title>[COLOR red][B] Expediente Warren:[/COLOR][/B]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/S0Hfj9kde1c/playlist/PLGHD-MuMyNk8rEbLUPviJ70a7KuHZW62l/</jsonrpc>
+ <thumbnail>https://i.imgur.com/oPMLlLw.jpg</thumbnail>
  <fanart>https://i.imgur.com/gLBCk4P.jpg</fanart> 
  <info>[COLOR white]BIenvenido al mundo de lo Paranormal...[/COLOR]</title></info>
 </item>
